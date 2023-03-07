@@ -1,1 +1,2 @@
 # python
+# yapay zeka
